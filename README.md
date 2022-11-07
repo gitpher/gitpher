@@ -1,4 +1,3 @@
 ### Hi there 👋
-- 🔭 I’m currently working on devloping logistic system
-- 🌱 I’m currently learning JooQ and Redis, as well as Dart/Flutter
+- 🔭 I’m currently working on devloping apps using Flutter
 - 📫 How to reach me: jun_chois@naver.com
