@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Junwoo Choi</h1>
 <h3 align="center">A software engineer enjoys Spring Boot and Flutter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitpher&label=Profile%20views&color=0e75b6&style=flat" alt="gitpher" /> </p>
-
 - 🌱 I’m currently learning **Flutter, Kotlin**
 
 - 📫 How to reach me **jun_chois@naver.com (+821090838923)**
