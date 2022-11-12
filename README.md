@@ -3,7 +3,7 @@
 
 - 🌱: I’m currently learning **Flutter, Kotlin**
 
-- 📧/📱: How to reach me **jun_chois@naver.com / +821090838923
+- 📧/📱: How to reach me **jun_chois@naver.com / +821090838923**
 
 - 📋: Know about my experiences (resumé) [https://mygitpher.s3.ap-northeast-2.amazonaws.com/%EC%B5%9C%EC%A4%80%EC%9A%B0+%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf](https://mygitpher.s3.ap-northeast-2.amazonaws.com/%EC%B5%9C%EC%A4%80%EC%9A%B0+%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 
