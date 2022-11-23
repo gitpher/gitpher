@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junwoo Choi</h1>
 <h3 align="center">A software engineer enjoys Spring Boot and Flutter</h3>
 
-- 🌱: I’m currently learning **Flutter, Kotlin&SpringBoot, Data Science**
+- 🌱: I’m currently learning **Data Sicence, Qt(C++), and Flutter(Dart)**
 
 - 📧/📱: How to reach me **jun_chois@naver.com / +821090838923**
 
