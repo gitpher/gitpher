@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jun_chois@daum.net**
 
-- ⚡ Fun fact **I pet lizard**
+- ⚡ Fun fact **I pet gecko**
 
 <p align="left">
 </p>
