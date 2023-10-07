@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jun Woo Choi</h1>
-<h3 align="center">A back-end developer with a passion for automation</h3>
+<h3 align="center">A developer with a passion for automation</h3>
 
 - 🔭 I’m currently working on **Problem Solving**
 
