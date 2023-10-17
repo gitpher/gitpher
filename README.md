@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Problem Solving**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JSP**
 
 - 📫 How to reach me **jun_chois@daum.net**
 
